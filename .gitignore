@@ -30,3 +30,12 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.sublime-project
 /tests/tests/
 /tests/results/
+
+
+#---- by beprofit admin
+upload/temp/*
+!upload/temp/readme.txt
+upload/img/*
+!upload/img/readme.txt
+
+gitpush.bat
