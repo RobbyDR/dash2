@@ -1,0 +1,16 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "mybblmgoid Threat Model",
+    "owner": "Robby",
+    "description": "mybblmgoid Threat Model",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 1,
+    "reviewer": "Robby",
+    "threatTop": 0
+  }
+}
